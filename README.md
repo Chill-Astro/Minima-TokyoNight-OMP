@@ -104,8 +104,9 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
   
 - Save this Text ( Change `pwsh` to `powershell` if using `Windows Powershell` ) :
 
-        oh-my-posh --init --shell pwsh --config ~/AppData/Local/Programs/oh-my-posh/themes/Minima.omp.json | Invoke-Expression
-        # or oh-my-posh --init --shell pwsh --config ~/<randomfilepath>/Minima.omp.json | Invoke-Expression if saved somewhere else
+Change the Path if Needed!
+
+        oh-my-posh --init --shell pwsh --config ~/AppData/Local/Programs/oh-my-posh/themes/Minima.omp.json | Invoke-Expression        
 
 - Save this and Reload `Powershell Core` or `Windows Powershell`. Enjoy! :)
 
@@ -119,8 +120,9 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
   
 - Save this Text at the Bottom of File Contents ( Don't Overwrite ) :
 
-        eval "$(oh-my-posh init bash --config ~/.local/share/oh-my-posh/themes/Minima.omp.json)"
-        # or eval "$(oh-my-posh init bash --config ~/<randomfilepath>/Minima.omp.json)" if saved somewhere else
+Change the Path if Needed!
+
+        eval "$(oh-my-posh init bash --config ~/.local/share/oh-my-posh/themes/Minima.omp.json)"        
 
 - Save this and Type :
 
