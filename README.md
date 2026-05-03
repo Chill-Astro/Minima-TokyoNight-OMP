@@ -5,12 +5,13 @@
 
 Customization is Great, but not Inconvenience coming from Ricing. Thus I made a Simple Rice without any Dependencies. My Goal is to make Powershell look like Bash. Her Design is Inspired from the `Default Linux Terminal` and `adb shell` on Rooted Android.
 
-THIS THEME IS *NOT FOR NEOVIMMERS ON ARCH* NOR *VERY ADVANCED USERS* 
-
-( No Offense to Arch Linux nor Neovim. This is Just a Joke on Flexers. Sorry! :) )
+**Latest Version** : `v1.1`
 
 </div>
 
+> [!NOTE]
+> THIS THEME IS *"NOT FOR NEOVIMMERS & RICING LEGENDS ON ARCH"* NOR *"VERY ADVANCED USERS"* 
+>( No Offense to Arch Linux nor Neovim. This is Just a Joke on Flexers and Ricing Legends. Sorry! :) )
 ---
 
 ## Key Features :
@@ -51,27 +52,19 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
 
       {
         "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
-        "palette": {
-          "main": "#73DACA",
-          "blue": "#7DCFFF",
-          "yellow": "#E0AF68",
-          "white": "#C8D2FF",
-          "error": "#F7768E",
-          "deepblue": "#1a1b26"
-        },
         "blocks": [
           {
             "alignment": "left",
             "newline": false,
             "segments": [                
               {
-                "foreground": "p:white",
+                "foreground": "#C8D2FF",
                 "style": "plain",
                 "template": "{{ .UserName }}@{{ .HostName }} ",
                 "type": "session"
               },
               {
-                "foreground": "p:blue",
+                "foreground": "#7DCFFF",
                 "options": {
                   "style": "full"
                 },
@@ -80,7 +73,7 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
                 "type": "path"
               },
               {
-                "foreground": "p:white",
+                "foreground": "#C8D2FF",
                 "properties": {
                   "always_enabled": true
                 },
