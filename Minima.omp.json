@@ -21,7 +21,7 @@
           "type": "path"
         },
         {
-          "foreground": "lightWhite",
+          "foreground": "#C8D2FF",
           "properties": {
             "always_enabled": true
           },
