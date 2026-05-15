@@ -2,6 +2,7 @@
 
 <br>
 <br>
+<br>
     
 **Minima** is a *Simple but Universal Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), Built for `Speed`, `Adaptability`, and `Maximum Portability`.
 
@@ -35,7 +36,7 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 ## Preview ( Sorry Arch Users this is Windows 11! ) :
 
 <kbd>
-<img alt="image" src="https://github.com/user-attachments/assets/a6b7bb4e-884d-4b3d-bfb5-9ce29bff6233" />
+<img alt="image" src="https://github.com/user-attachments/assets/d553085f-459c-4b1b-a0f8-79fe7e2ebea0" />
 </kbd>
 
 ---
@@ -45,7 +46,7 @@ Customization is Great, but not Inconvenience coming from Ricing. Thus I made a 
 Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not all. It's Terrible 🙏
 
 <kbd>
-<img alt="image" src="https://github.com/user-attachments/assets/36889c4d-3eff-4430-b7c7-975b387fa84c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e70cab0-2b3e-457d-967c-ff8bc5e67521" />
 </kbd>
 
 ---
