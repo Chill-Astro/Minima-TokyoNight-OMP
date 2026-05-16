@@ -137,9 +137,9 @@ Change the Path if Needed!
 
 ---
 
-## MacOS :
+## MacOS
 
-User Freedom, Gaming and Budget Matter to Me. So Sorry! ¯\\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 
 ---
 
