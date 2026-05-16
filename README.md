@@ -5,6 +5,8 @@
 
 **Minima** is made for all sorts of Terminal Color Schemes. In Demonstration, `Tokyo Night Storm` is Used.
 
+Want an Advanced Edition? See [Minima PLUS!](https://github.com/Chill-Astro/Minima-PLUS-OMP)
+
 Customization is Great, but not Inconvenience coming from Ricing. Thus I made a Simple Rice without any Dependencies. My Goal is to make Powershell look like Bash. Her Design is Inspired from the `Default Linux Terminal` and `adb shell` on Rooted Android.
 
 **Latest Version** : `v1.3`
