@@ -1,12 +1,5 @@
-<br>
-<br>
-<br>
-
-<div align="center">  <img alt="Minima" width="700" src="https://github.com/user-attachments/assets/3c3691f3-1f7b-40ea-b69d-3fdab273dbb0" />
-
-<br>
-<br>
-<br>
+<div align="center">  
+    <img alt="Minama" src="https://github.com/user-attachments/assets/8beefe35-faa9-423f-b067-3af8d5c782bc" />
     
 **Minima** is a *Simple but Universal Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), Built for `Speed`, `Adaptability`, and `Maximum Portability`.
 
@@ -70,13 +63,13 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
             "newline": false,
             "segments": [                
               {
-                "foreground": "green",
+                "foreground": "white",
                 "style": "plain",
                 "template": "{{ .UserName }}@{{ .HostName }} ",
                 "type": "session"
               },
               {
-                "foreground": "green",
+                "foreground": "cyan",
                 "options": {
                   "style": "full"
                 },
@@ -85,7 +78,7 @@ Microsoft, if you are Seeing this, Please Rmeove this from Home Systems, if not 
                 "type": "path"
               },
               {
-                "foreground": "green",
+                "foreground": "white",
                 "properties": {
                   "always_enabled": true
                 },
