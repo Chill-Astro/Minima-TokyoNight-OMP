@@ -5,12 +5,12 @@
 ## ⚠️ Smoking Gun for Danger :
 
 > [!CAUTION]
-> **MALWARE ALERT:** If your downloaded folder looks like the images below, **DO NOT OPEN** any files. Format the drive or delete the folder immediately. There are **NO OFFICIAL RELEASES!**
+> **MALWARE ALERT:** If your downloaded folder looks like the images below, **DO NOT OPEN** any files. Format the drive or delete the folder immediately. Official Releases are only in **JSON** Files!
 
 <details>
 <summary><b>View Details</b></summary>
 * **Suspicious Windows Executables:** Files ending in `.exe`, `.bat`, or `.dll` (e.g., `luau.exe`, `StartApp.bat`).
-* **Compressed Archives:** This Repository **HAS NO RELEASES** so don't expect a `.zip` or `.7z` containing Windows binaries.
+* **Compressed Archives:** This Repository has Releases in **JSON** Format. so don't expect a `.zip` or `.7z` containing Windows binaries.
 * **Hidden Scripts:** Text files like `asm.txt` used to execute malicious code on your PC.
 * The Following Folder Structure is used by Malware (Shown in a VM) :
 
