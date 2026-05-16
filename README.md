@@ -1,5 +1,5 @@
 <div align="center">  
-    <img alt="Minama" src="https://github.com/user-attachments/assets/8beefe35-faa9-423f-b067-3af8d5c782bc" />
+    <img alt="Minama" width=700 src="https://github.com/user-attachments/assets/8beefe35-faa9-423f-b067-3af8d5c782bc" />
     
 **Minima** is a *Simple but Universal Theme* for [Oh My Posh!](https://github.com/jandedobbeleer/oh-my-posh), Built for `Speed`, `Adaptability`, and `Maximum Portability`.
 
